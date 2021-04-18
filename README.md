@@ -5,7 +5,6 @@
   <li>Run npm start (or yarn start)</li>
   <li>Open app on your localhost</li>
 </ol>
-<h2>Please enjoy</h2>
 <br></br>
 <h2>To do:</h2>
 <ul>
