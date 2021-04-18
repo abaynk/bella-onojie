@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+.Header {
+    height: 100vh;
+    background-image: url('./headerBackground.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    position: fixed;
+}
+.Header__content {
+    position: relative;
+    top: 300px;
+    color: #F6F6F6;
+    font-family: 'Montserrat', sans-serif;
+    width: 937px;
+    margin:auto;
+}
+.Header__content > h3 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.1px;
+}
+.Header__content > h1 {
+    font-weight: bold;
+    font-size: 58px;
+    font-family: 'Poppins', sans-serif;
+    line-height: 80px;
+    letter-spacing: 0.2px;
+}
+.Header__content > h4 {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 38px;
+    letter-spacing: 0.2px;
+}
+.Header__buttons {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: space-evenly;
+    z-index: 2 !important;
+}

@@ -1,0 +1,31 @@
+.Middle {
+    position: relative;
+    top: 105vh;
+}
+.Middle__top {
+    position: relative;
+    height: 100vh;
+    background-color: #FFFFFF;
+}
+#iphoneTop1 {
+    position: relative;
+    top: -190px;
+}
+#iphoneTop2 {
+    position: relative;
+    top: -320px;
+    left: -180px;
+}
+.Middle__top > h1 {
+    position: relative;
+    bottom: 50px;
+    color: #000000;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 36px;
+    margin:auto;
+    width: 1000px;
+    border-top: 3px solid #E4E4E4;
+    padding-top: 70px;
+}

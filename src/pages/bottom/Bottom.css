@@ -1,0 +1,38 @@
+.Bottom {
+    position: relative;
+    height: 70vh;
+    width: 100%;
+    display: inline-block;
+    top: 105vh;
+    background-image: url('./bottom.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    /* position: fixed; */
+}
+.Bottom__content {
+    position: relative;
+    top: 300px;
+    margin:auto;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+}
+.Bottom__content > h4 {
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 38px;
+    letter-spacing: 0.2px;
+}
+.Bottom__content > h2 {
+    font-size: 48px;
+    line-height: 57px;
+    letter-spacing: 0.2px;
+}
+.Bottom__buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+    margin:auto;
+
+}
