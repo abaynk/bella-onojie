@@ -5,6 +5,7 @@
   <li>Run npm start (or yarn start)</li>
   <li>Open app on your localhost</li>
 </ol>
+<h1>...OR simply visit <a href='https://bella-olonjie.web.app/'>https://bella-olonjie.web.app/</a></h1>
 <br></br>
 <h2>To do:</h2>
 <ul>
